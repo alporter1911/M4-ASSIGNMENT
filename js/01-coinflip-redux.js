@@ -1,4 +1,4 @@
-// Asking how many times the want to flip the coin
+// Asking how many times you want to flip the coin
 let numberOfFlips = parseInt(prompt("Enter the number of times you want to flip the coin: "));
 
 // Validation input
